@@ -10,6 +10,7 @@ namespace demo1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("我的第一个git");
         }
     }
 }
